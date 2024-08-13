@@ -34,21 +34,21 @@ const ExpeirenceSlider = () => {
     itemClass='item'
     >
         <ExpeirenceCard 
-        image="/images/user1.jpg" 
+        image="./images/user1.jpg" 
         company="Accenture" 
         role="CyberSecurity Intern"
         desc="Getting Trained in JAVA Basics, CyberArk IAM Tool which includes knowledge of IAM, Privilege Access
         Management (PAM)"
         />
         <ExpeirenceCard 
-        image="/images/user2.jpg" 
+        image="./images/user2.jpg" 
         company="Finkeep" 
         role="FrontEnd Developer"
         desc="Responsible to handle frontend development related task, mainly works on ReactJS Build the Dashboard UI and also
         other tabs Frontend in React"
         />
         <ExpeirenceCard 
-        image="/images/user3.png" 
+        image="./images/user3.png" 
         company="GDSC" 
         role="Program Manager"
         desc="Organized an event of 500+ students for the current mutliple cutting edge softwares where participants were introduced to these softwares."

@@ -57,7 +57,7 @@ const Hero = () => {
                 </div>
                 <div data-aos="fade-left" data-aos-delay="2000" className='hidden md:block ml-[140px]'>
                     <Image 
-                    src={'/images/hero.png'}
+                    src={'./images/hero.png'}
                     alt='hero' 
                     width={500} 
                     height={500} 
