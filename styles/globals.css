@@ -9,13 +9,14 @@
         after:bg-yellow-400 text-white after:w-full after:scale-x-0 after:hover:scale-100 after:transition
         after:duration-300 after:origin-right
     }
-    .custom-bg{
-      background-image: linear-gradient(to right,rgba(0,0,0,0.836),rgba(0,0,0,0.811)),url("./images/bg.jpg");
+    /* .custom-bg {
+      background-image: linear-gradient(to right, rgba(0,0,0,0.836), rgba(0,0,0,0.811)), var(--bg-path);
       background-repeat: no-repeat;
       background-size: cover;
       background-position: center;
-      clip-path: polygon(0 0,100% 0,100% 95%,0% 100%);
-    }
+      clip-path: polygon(0 0, 100% 0, 100% 95%, 0% 100%);
+    } */
+    
     .heading__mini{
       @apply text-[17px] text-white opacity-75
     }
@@ -24,3 +25,6 @@
       xl:text-[45px]  
     }
 }
+/* :root {
+  --bg-path: url("./bg.JPG");
+} */
