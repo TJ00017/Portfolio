@@ -20,42 +20,42 @@ const Skills = () => {
                     items-center '>
                         <div data-aos="flip-left" data-aos-anchor-placement="top-center" >
                             <SkillCard title='React' 
-                            image='/images/react.svg'
+                            image='./images/react.svg'
                             percentage='90% '/>
                         </div>
                         <div data-aos="flip-left" data-aos-anchor-placement="top-center" data-aos-delay="200">
                             <SkillCard title='CSS' 
-                            image='/images/css.svg'
+                            image='./images/css.svg'
                             percentage='97% '/>
                         </div>
                         <div data-aos="flip-left" data-aos-anchor-placement="top-center" data-aos-delay="400">
                             <SkillCard title='JavaScript' 
-                            image='/images/js.svg'
+                            image='./images/js.svg'
                             percentage='90% '/>
                         </div>
                         <div data-aos="flip-left" data-aos-anchor-placement="top-center" data-aos-delay="600">
                             <SkillCard title='TypeScript' 
-                            image='/images/ts.svg'
+                            image='./images/ts.svg'
                             percentage='65% '/>
                         </div>
                         <div data-aos="flip-left" data-aos-anchor-placement="top-center" data-aos-delay="800">
                             <SkillCard title='HTML' 
-                            image='/images/html.svg'
+                            image='./images/html.svg'
                             percentage='88% '/>
                         </div>
                         <div data-aos="flip-left" data-aos-anchor-placement="top-center" data-aos-delay="1000">
                             <SkillCard title='Node JS' 
-                            image='/images/node.svg'
+                            image='./images/node.svg'
                             percentage='70% '/>
                         </div>
                         <div data-aos="flip-left" data-aos-anchor-placement="top-center" data-aos-delay="1200">
                             <SkillCard title='C++' 
-                            image='/images/c.svg'
+                            image='./images/c.svg'
                             percentage='90% '/>
                         </div>
                         <div data-aos="flip-left" data-aos-anchor-placement="top-center" data-aos-delay="1400">
                             <SkillCard title='Python' 
-                            image='/images/python.svg'
+                            image='./images/python.svg'
                             percentage='89% '/>
                         </div>
                     </div>
